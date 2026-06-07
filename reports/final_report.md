@@ -1,7 +1,7 @@
 # Week 1 Final Report: E-Commerce Data Analysis
 **Organization:** WeIntern Pvt Ltd
 **Project:** Week 1 Assignment
-**Prepared By:** Data Science Intern
+**Prepared By:** Shanika Jith
 ---
 ### 1. Title and Objective
 * **Project Title:** E-Commerce Data Cleaning, KPI Analysis, and Visualization Pipeline.
