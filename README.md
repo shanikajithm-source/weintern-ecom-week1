@@ -1,4 +1,4 @@
-# Week 1 Data Science Assignment
+# Week 2 Data Science Assignment
 
 ## Intern
 Shanika Jith
