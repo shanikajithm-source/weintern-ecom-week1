@@ -1,6 +1,6 @@
 # Week 2 Final Report: E-Commerce Data Analysis
 **Organization:** WeIntern Pvt Ltd
-**Project:** Week 1 Assignment
+**Project:** Week 2 Assignment
 **Prepared By:** Shanika Jith
 ---
 ### 1. Title and Objective
